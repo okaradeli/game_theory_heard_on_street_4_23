@@ -1,0 +1,32 @@
+Dominant strategies
+mr10: strongest, mr30:strongest, mr60:strongest
+
+Strategies:[('Mr10', 0.1, 'Weakest'), ('Mr30', 0.3, 'Weakest'), ('Mr60', 0.6, 'Weakest')] {'Mr10': 839, 'Mr30': 27087, 'Mr60': 72074}
+Strategies:[('Mr10', 0.1, 'Weakest'), ('Mr30', 0.3, 'Weakest'), ('Mr60', 0.6, 'Random')] {'Mr10': 4862, 'Mr30': 16529, 'Mr60': 78609}
+Strategies:[('Mr10', 0.1, 'Weakest'), ('Mr30', 0.3, 'Weakest'), ('Mr60', 0.6, 'Strongest')] {'Mr10': 8876, 'Mr30': 5964, 'Mr60': 85160}
+Strategies:[('Mr10', 0.1, 'Weakest'), ('Mr30', 0.3, 'Strongest'), ('Mr60', 0.6, 'Weakest')] {'Mr10': 10523, 'Mr30': 47245, 'Mr60': 42232}
+Strategies:[('Mr10', 0.1, 'Weakest'), ('Mr30', 0.3, 'Strongest'), ('Mr60', 0.6, 'Random')] {'Mr10': 14560, 'Mr30': 36807, 'Mr60': 48633}
+Strategies:[('Mr10', 0.1, 'Weakest'), ('Mr30', 0.3, 'Strongest'), ('Mr60', 0.6, 'Strongest')] {'Mr10': 18519, 'Mr30': 26224, 'Mr60': 55257}
+Strategies:[('Mr10', 0.1, 'Weakest'), ('Mr30', 0.3, 'Random'), ('Mr60', 0.6, 'Weakest')] {'Mr10': 5772, 'Mr30': 37298, 'Mr60': 56930}
+Strategies:[('Mr10', 0.1, 'Weakest'), ('Mr30', 0.3, 'Random'), ('Mr60', 0.6, 'Random')] {'Mr10': 9727, 'Mr30': 26883, 'Mr60': 63390}
+Strategies:[('Mr10', 0.1, 'Weakest'), ('Mr30', 0.3, 'Random'), ('Mr60', 0.6, 'Strongest')] {'Mr10': 13451, 'Mr30': 16185, 'Mr60': 70364}
+Strategies:[('Mr10', 0.1, 'Strongest'), ('Mr30', 0.3, 'Weakest'), ('Mr60', 0.6, 'Weakest')] {'Mr10': 2526, 'Mr30': 38078, 'Mr60': 59396}
+Strategies:[('Mr10', 0.1, 'Strongest'), ('Mr30', 0.3, 'Weakest'), ('Mr60', 0.6, 'Random')] {'Mr10': 6512, 'Mr30': 27255, 'Mr60': 66233}
+Strategies:[('Mr10', 0.1, 'Strongest'), ('Mr30', 0.3, 'Weakest'), ('Mr60', 0.6, 'Strongest')] {'Mr10': 10222, 'Mr30': 17214, 'Mr60': 72564}
+Strategies:[('Mr10', 0.1, 'Strongest'), ('Mr30', 0.3, 'Strongest'), ('Mr60', 0.6, 'Weakest')] {'Mr10': 12289, 'Mr30': 58118, 'Mr60': 29593}
+Strategies:[('Mr10', 0.1, 'Strongest'), ('Mr30', 0.3, 'Strongest'), ('Mr60', 0.6, 'Random')] {'Mr10': 16237, 'Mr30': 47643, 'Mr60': 36120}
+Strategies:[('Mr10', 0.1, 'Strongest'), ('Mr30', 0.3, 'Strongest'), ('Mr60', 0.6, 'Strongest')] {'Mr10': 20052, 'Mr30': 37312, 'Mr60': 42636}
+Strategies:[('Mr10', 0.1, 'Strongest'), ('Mr30', 0.3, 'Random'), ('Mr60', 0.6, 'Weakest')] {'Mr10': 7409, 'Mr30': 47790, 'Mr60': 44801}
+Strategies:[('Mr10', 0.1, 'Strongest'), ('Mr30', 0.3, 'Random'), ('Mr60', 0.6, 'Random')] {'Mr10': 11227, 'Mr30': 37793, 'Mr60': 50980}
+Strategies:[('Mr10', 0.1, 'Strongest'), ('Mr30', 0.3, 'Random'), ('Mr60', 0.6, 'Strongest')] {'Mr10': 15410, 'Mr30': 26872, 'Mr60': 57718}
+Strategies:[('Mr10', 0.1, 'Random'), ('Mr30', 0.3, 'Weakest'), ('Mr60', 0.6, 'Weakest')] {'Mr10': 1690, 'Mr30': 32689, 'Mr60': 65621}
+Strategies:[('Mr10', 0.1, 'Random'), ('Mr30', 0.3, 'Weakest'), ('Mr60', 0.6, 'Random')] {'Mr10': 5640, 'Mr30': 22017, 'Mr60': 72343}
+Strategies:[('Mr10', 0.1, 'Random'), ('Mr30', 0.3, 'Weakest'), ('Mr60', 0.6, 'Strongest')] {'Mr10': 9522, 'Mr30': 11416, 'Mr60': 79062}
+Strategies:[('Mr10', 0.1, 'Random'), ('Mr30', 0.3, 'Strongest'), ('Mr60', 0.6, 'Weakest')] {'Mr10': 11347, 'Mr30': 53238, 'Mr60': 35415}
+Strategies:[('Mr10', 0.1, 'Random'), ('Mr30', 0.3, 'Strongest'), ('Mr60', 0.6, 'Random')] {'Mr10': 15644, 'Mr30': 42278, 'Mr60': 42078}
+Strategies:[('Mr10', 0.1, 'Random'), ('Mr30', 0.3, 'Strongest'), ('Mr60', 0.6, 'Strongest')] {'Mr10': 19520, 'Mr30': 31807, 'Mr60': 48673}
+Strategies:[('Mr10', 0.1, 'Random'), ('Mr30', 0.3, 'Random'), ('Mr60', 0.6, 'Weakest')] {'Mr10': 6503, 'Mr30': 42451, 'Mr60': 51046}
+Strategies:[('Mr10', 0.1, 'Random'), ('Mr30', 0.3, 'Random'), ('Mr60', 0.6, 'Random')] {'Mr10': 10424, 'Mr30': 31870, 'Mr60': 57706}
+Strategies:[('Mr10', 0.1, 'Random'), ('Mr30', 0.3, 'Random'), ('Mr60', 0.6, 'Strongest')] {'Mr10': 14561, 'Mr30': 21502, 'Mr60': 63937}
+
+Process finished with exit code 0
